@@ -27,9 +27,6 @@ export default function Home() {
         </div>
       </div>
       <div className={styles.album}>
-        <div className={styles.vertTextBox}>
-          <span className={styles.vertText}>D E V O N S T R E E T</span>
-        </div>
         <MarqueeText />
         <RealityBackgroundSVG />
       </div>
